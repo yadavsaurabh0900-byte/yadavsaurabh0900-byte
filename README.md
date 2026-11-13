@@ -1,16 +1,17 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="GitHub profile banner for yadavsaurabh0900-byte, a developer building Python image recognition projects">
+</picture>
 
-<!--
-**yadavsaurabh0900-byte/yadavsaurabh0900-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Developer building Python projects, including image-based cattle breed recognition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+- [cattle_breed_identification](https://github.com/yadavsaurabh0900-byte/cattle_breed_identification) — Image-based cattle recognition in Python.
+
+## Connect
+
+- GitHub: [@yadavsaurabh0900-byte](https://github.com/yadavsaurabh0900-byte)
