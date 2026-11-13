@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile-photo.png" alt="Profile photo of Saurabh Yadav" width="150">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
@@ -19,13 +15,14 @@ Hi, I’m Saurabh Yadav. I’m 22 and focused on learning, building, and being b
 
 ## Featured projects
 
+- [hotel-booking-portal](https://github.com/yadavsaurabh0900-byte/hotel-booking-portal) — Full-stack Hotel Booking Portal with Spring Boot, React, and MySQL.
 - [cattle_breed_identification](https://github.com/yadavsaurabh0900-byte/cattle_breed_identification) — Image-based cattle recognition in Python.
 - [timepass](https://github.com/yadavsaurabh0900-byte/timepass) — A personal experimental project.
 
 ## GitHub activity
 
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yadavsaurabh0900-byte&layout=pie&theme=tokyonight&hide_border=true" alt="Programming-language pie chart" height="190">
+  <img src="./top-langs.svg" alt="Top Languages by Commit" height="190">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsaurabh0900-byte&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="190">
 </p>
 
